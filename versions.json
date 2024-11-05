@@ -1,10 +1,14 @@
-{
-  "versions": [
+[
     {
-      "client_version": "0.14.9.1.30626",
-      "client_download_url": "https://vip.123pan.cn/1820859566/%E7%9B%B4%E9%93%BE/%E5%AE%A2%E6%88%B7%E7%AB%AF/Client.0.14.9.1.30626.zip",
-      "server_version": "3.9.8",
-      "server_download_url": "https://vip.123pan.cn/1820859566/%E7%9B%B4%E9%93%BE/%E6%9C%8D%E5%8A%A1%E7%AB%AF/SPT-3.9.8-30626-a0c79ac.7z"
+        "ServerVersion": "3.9.8",
+        "ClientVersion": "0.14.9.1.30626",
+        "ServerDownloadLink": "https://vip.123pan.cn/1820859566/%E7%9B%B4%E9%93%BE/%E6%9C%8D%E5%8A%A1%E7%AB%AF/SPT-3.9.8-30626-a0c79ac.7z",
+        "ClientDownloadLink": "https://vip.123pan.cn/1820859566/%E7%9B%B4%E9%93%BE/%E5%AE%A2%E6%88%B7%E7%AB%AF/Client.0.14.9.1.30626.zip"
+    },
+    {
+        "ServerVersion": "3.10",
+        "ClientVersion": "0.15",
+        "ServerDownloadLink": "https://example.com/server2.zip",
+        "ClientDownloadLink": "https://example.com/client2.zip"
     }
-  ]
-}
+]
